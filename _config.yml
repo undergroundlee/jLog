@@ -2,9 +2,9 @@ remote_theme: just-the-docs/just-the-docs
 
 #Site settings
 title: jLog
-description: underground blog
+description: "underground blog"
 baseurl: "/jLog"
-url: "https://jLog.github.io
+url: "https://jLog.github.io"
 
 
 exclude:
